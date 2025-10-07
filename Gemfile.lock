@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     ofx (0.3.3)
-      nokogiri (~> 1.13.1)
+      nokogiri (>= 1.13.1, < 1.17.0)
 
 GEM
   remote: https://rubygems.org/
